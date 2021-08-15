@@ -4,9 +4,9 @@ This service, like a proxy, use OpenWeather resource (https://home.openweatherma
 In order to launch application use `gradle run`
 
 Stack:
-  Java 8
-Spring Boot
-Gradle
-Swagger 2.7
+Java 8,
+Spring Boot,
+Gradle,
+Swagger 2.7,
 Mockito
 
